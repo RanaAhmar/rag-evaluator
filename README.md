@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/rag-evaluator?style=for-the-badge)](https://github.com/RanaAhmar/rag-evaluator/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/rag-evaluator?style=for-the-badge)](https://github.com/RanaAhmar/rag-evaluator/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/rag-evaluator/blob/main/LICENSE)
+
 # 🤖 RAG Evaluator
 
 Measure the performance of your Retrieval-Augmented Generation systems. Metrics for faithfulness, relevance, and accuracy. By **Ahmar Hussain** (**Stackaura**).
@@ -33,4 +35,13 @@ If you found this tool useful, check out our other high-performance web utilitie
 ---
 
 
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
 
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
+
+*If you find this project useful, please consider giving it a star! ⭐*
